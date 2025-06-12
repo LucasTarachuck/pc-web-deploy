@@ -1,6 +1,6 @@
-Lucas tarachuck (click in my computer)
+Lucas tarachuck é isso ai
 
-# pc-web-deploy
+# pc-web-deploy 
 
 ## App in laravel 
 
